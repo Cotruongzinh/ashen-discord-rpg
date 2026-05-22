@@ -31,6 +31,9 @@ OPTIONAL_EXTENSIONS = [
     "cogs.menu",
     "cogs.qol",
     "cogs.account",
+    "cogs.ai",
+    "cogs.ai_world",
+    "cogs.ai_review",
 ]
 
 
